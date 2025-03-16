@@ -4,9 +4,9 @@ including classification, clustering, dimensionality reduction, and association 
 This repository serves as a knowledge base and reference point for students enrolled in the course, as well as anyone interested in the field of data analysis.
 
 ## Reports
-[ha1_katarzyna_michalska.pdf](https://github.com/user-attachments/files/19272296/ha1_katarzyna_michalska.pdf)
-[ha2_katarzyna_michalska.pdf](https://github.com/user-attachments/files/19272299/ha2_katarzyna_michalska.pdf)
-[ha3_katarzyna_michalska.pdf](https://github.com/user-attachments/files/19272300/ha3_katarzyna_michalska.pdf)
-[ONLINE_final_project_katarzyna_michalska (2).pdf](https://github.com/user-attachments/files/19272315/ONLINE_final_project_katarzyna_michalska.2.pdf)
+- [Report I](https://github.com/user-attachments/files/19272296/ha1_katarzyna_michalska.pdf)
+- [Report II](https://github.com/user-attachments/files/19272299/ha2_katarzyna_michalska.pdf)
+- [Report III](https://github.com/user-attachments/files/19272300/ha3_katarzyna_michalska.pdf)
+- [Final Report](https://github.com/user-attachments/files/19272315/ONLINE_final_project_katarzyna_michalska.2.pdf)
 
 
